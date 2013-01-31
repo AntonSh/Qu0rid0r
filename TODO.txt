@@ -1,0 +1,12 @@
+* 1. move to graph representation
+* 1.5 Add UI for setting fences.
+* 2. Add support for jumps.
+* 2.1 Add UI for moves (including jumps)
+* 2.2 Add logic to validate fences set.
+2.3 Add UI to move fences.
+2.5 Document the code
+2.6 Add Quantative measure to the board as it's zero sum game.
+2.7 Add game internal exceptions for AI logic
+3. Add unit tests.
+4. Add copy constructor to the board.
+5. Add Costing to the board (to allow for move analysis)
